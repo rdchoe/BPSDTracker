@@ -1,0 +1,6 @@
+framework module Pods_BPSDTracker {
+  umbrella header "Pods-BPSDTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
